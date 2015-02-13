@@ -40,7 +40,7 @@ CHANGED -- just incase uefi is there, we give it PLENTY of room... like 5 times 
 Konami Code: o, y, n, enter, enter, +250M, ef02, n, enter, enter, enter, enter, x, a, 2, 2, enter, w, y.
 
 pacman -S xf86-video-nouveau mesa-libgl lib32-mesa-libgl
-
+```
 
 
 ###Notes from install
